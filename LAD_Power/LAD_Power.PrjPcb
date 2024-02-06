@@ -32,7 +32,10 @@ ReportSuppressedErrorsInMessages=0
 FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
 IsProjectConflictPreventionWarningsEnabled=0
+<<<<<<< HEAD
 ConstraintManagerFlow=0
+=======
+>>>>>>> e69b96d6f7a63eb3e67b00bc3243bcffbbe9ec5d
 IsVirtualBomDocumentRemoved=0
 OutputPath=
 LogFolderPath=
@@ -66,6 +69,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=VQFMUZSG
 
+<<<<<<< HEAD
 [Document2]
 DocumentPath=Buck_Converters.SchDoc
 AnnotationEnabled=1
@@ -100,6 +104,8 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
+=======
+>>>>>>> e69b96d6f7a63eb3e67b00bc3243bcffbbe9ec5d
 [Configuration1]
 Name=Sources
 ParameterCount=0
@@ -200,6 +206,7 @@ OutputName17=SciCards Netlist
 OutputDocumentPath17=
 OutputVariantName17=
 OutputDefault17=0
+<<<<<<< HEAD
 OutputType18=TangoNetlist
 OutputName18=Tango Netlist
 OutputDocumentPath18=
@@ -220,6 +227,38 @@ OutputName21=Mixed Sim Netlist
 OutputDocumentPath21=
 OutputVariantName21=
 OutputDefault21=0
+=======
+OutputType18=SIMetrixNetlist
+OutputName18=SIMetrix
+OutputDocumentPath18=
+OutputVariantName18=
+OutputDefault18=0
+OutputType19=SIMPLISNetlist
+OutputName19=SIMPLIS
+OutputDocumentPath19=
+OutputVariantName19=
+OutputDefault19=0
+OutputType20=TangoNetlist
+OutputName20=Tango Netlist
+OutputDocumentPath20=
+OutputVariantName20=
+OutputDefault20=0
+OutputType21=TelesisNetlist
+OutputName21=Telesis Netlist
+OutputDocumentPath21=
+OutputVariantName21=
+OutputDefault21=0
+OutputType22=WireListNetlist
+OutputName22=WireList Netlist
+OutputDocumentPath22=
+OutputVariantName22=
+OutputDefault22=0
+OutputType23=XSpiceNetlist
+OutputName23=Mixed Sim Netlist
+OutputDocumentPath23=
+OutputVariantName23=
+OutputDefault23=0
+>>>>>>> e69b96d6f7a63eb3e67b00bc3243bcffbbe9ec5d
 
 [OutputGroup2]
 Name=Simulator Outputs
@@ -231,6 +270,19 @@ OutputName1=Mixed Sim
 OutputDocumentPath1=
 OutputVariantName1=
 OutputDefault1=0
+<<<<<<< HEAD
+=======
+OutputType2=SIMetrixSimulation
+OutputName2=SIMetrix
+OutputDocumentPath2=
+OutputVariantName2=
+OutputDefault2=0
+OutputType3=SIMPLISSimulation
+OutputName3=SIMPLIS
+OutputDocumentPath3=
+OutputVariantName3=
+OutputDefault3=0
+>>>>>>> e69b96d6f7a63eb3e67b00bc3243bcffbbe9ec5d
 
 [OutputGroup3]
 Name=Documentation Outputs
@@ -827,6 +879,7 @@ Type117=1
 Type118=1
 Type119=1
 Type120=1
+<<<<<<< HEAD
 Type121=1
 Type122=1
 Type123=1
@@ -845,6 +898,8 @@ Type135=1
 Type136=1
 Type137=1
 Type138=1
+=======
+>>>>>>> e69b96d6f7a63eb3e67b00bc3243bcffbbe9ec5d
 
 [Difference Levels]
 Type1=1
@@ -915,12 +970,15 @@ Type65=1
 Type66=1
 Type67=1
 Type68=1
+<<<<<<< HEAD
 Type69=1
 Type70=1
 Type71=1
 Type72=1
 Type73=1
 Type74=1
+=======
+>>>>>>> e69b96d6f7a63eb3e67b00bc3243bcffbbe9ec5d
 
 [Electrical Rules Check]
 Type1=1
@@ -1042,7 +1100,10 @@ Type116=2
 Type117=3
 Type118=3
 Type119=3
+<<<<<<< HEAD
 MultiChannelAlternate=0
+=======
+>>>>>>> e69b96d6f7a63eb3e67b00bc3243bcffbbe9ec5d
 AlternateItemFail=3
 Type122=2
 Type123=1
@@ -1050,6 +1111,7 @@ Type124=1
 Type125=1
 Type126=1
 Type127=1
+<<<<<<< HEAD
 Type128=2
 Type129=2
 Type130=2
@@ -1076,6 +1138,8 @@ Type150=2
 Type151=2
 Type152=1
 Type153=1
+=======
+>>>>>>> e69b96d6f7a63eb3e67b00bc3243bcffbbe9ec5d
 
 [ERC Connection Matrix]
 L1=NNNNNNNNNNNWNNNWW
