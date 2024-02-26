@@ -1,5 +1,4 @@
-Record=TopLevelDocument|FileName=BLE.SchDoc|SheetNumber=4
-Record=NoMainPathDocument|SourceDocument=BLE.SchDoc|FileName=Connectors.SchDoc|SheetNumber=2
-Record=NoMainPathDocument|SourceDocument=BLE.SchDoc|FileName=MCU.SchDoc|SheetNumber=1
-Record=NoMainPathDocument|SourceDocument=BLE.SchDoc|FileName=Programming.SchDoc|SheetNumber=5
-Record=NoMainPathDocument|SourceDocument=BLE.SchDoc|FileName=USB.SchDoc|SheetNumber=3
+Record=TopLevelDocument|FileName=Connectors.SchDoc|SheetNumber=2
+Record=NoMainPathDocument|SourceDocument=Connectors.SchDoc|FileName=MCU.SchDoc|SheetNumber=1
+Record=NoMainPathDocument|SourceDocument=Connectors.SchDoc|FileName=Programming.SchDoc|SheetNumber=4
+Record=NoMainPathDocument|SourceDocument=Connectors.SchDoc|FileName=USB.SchDoc|SheetNumber=3
