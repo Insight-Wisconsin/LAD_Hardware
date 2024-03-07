@@ -32,6 +32,7 @@ ReportSuppressedErrorsInMessages=0
 FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
 IsProjectConflictPreventionWarningsEnabled=0
+ConstraintManagerFlow=0
 IsVirtualBomDocumentRemoved=0
 OutputPath=
 LogFolderPath=
@@ -100,7 +101,24 @@ GenerateClassCluster=0
 DocumentUniqueId=VJBGKSQM
 
 [Document4]
-DocumentPath=C:\Users\drahozal\Downloads\ECE315.OutJob
+DocumentPath=Insight.OutJob
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document5]
+DocumentPath=IMU_Breakout.BomDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -121,51 +139,55 @@ DocumentPath=Project Outputs for IMU_Breakout\Design Rule Check - IMU_Breakout.h
 DItemRevisionGUID=
 
 [GeneratedDocument2]
-DocumentPath=Project Outputs for Free Documents\NC Drill\IMU_Breakout.DRR
+DocumentPath=Project Outputs for IMU_Breakout\NC Drill\IMU_Breakout.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument3]
-DocumentPath=Project Outputs for Free Documents\Gerber\IMU_Breakout.GBL
+DocumentPath=Project Outputs for IMU_Breakout\Gerber\IMU_Breakout.GBL
 DItemRevisionGUID=
 
 [GeneratedDocument4]
-DocumentPath=Project Outputs for Free Documents\Gerber\IMU_Breakout.GBO
+DocumentPath=Project Outputs for IMU_Breakout\Gerber\IMU_Breakout.GBO
 DItemRevisionGUID=
 
 [GeneratedDocument5]
-DocumentPath=Project Outputs for Free Documents\Gerber\IMU_Breakout.GBP
+DocumentPath=Project Outputs for IMU_Breakout\Gerber\IMU_Breakout.GBP
 DItemRevisionGUID=
 
 [GeneratedDocument6]
-DocumentPath=Project Outputs for Free Documents\Gerber\IMU_Breakout.GBS
+DocumentPath=Project Outputs for IMU_Breakout\Gerber\IMU_Breakout.GBS
 DItemRevisionGUID=
 
 [GeneratedDocument7]
-DocumentPath=Project Outputs for Free Documents\Gerber\IMU_Breakout.GM
+DocumentPath=Project Outputs for IMU_Breakout\Gerber\IMU_Breakout.GM
 DItemRevisionGUID=
 
 [GeneratedDocument8]
-DocumentPath=Project Outputs for Free Documents\Gerber\IMU_Breakout.GTL
+DocumentPath=Project Outputs for IMU_Breakout\Gerber\IMU_Breakout.GM2
 DItemRevisionGUID=
 
 [GeneratedDocument9]
-DocumentPath=Project Outputs for Free Documents\Gerber\IMU_Breakout.GTO
+DocumentPath=Project Outputs for IMU_Breakout\Gerber\IMU_Breakout.GTL
 DItemRevisionGUID=
 
 [GeneratedDocument10]
-DocumentPath=Project Outputs for Free Documents\Gerber\IMU_Breakout.GTP
+DocumentPath=Project Outputs for IMU_Breakout\Gerber\IMU_Breakout.GTO
 DItemRevisionGUID=
 
 [GeneratedDocument11]
-DocumentPath=Project Outputs for Free Documents\Gerber\IMU_Breakout.GTS
+DocumentPath=Project Outputs for IMU_Breakout\Gerber\IMU_Breakout.GTP
 DItemRevisionGUID=
 
 [GeneratedDocument12]
-DocumentPath=Project Outputs for Free Documents\NC Drill\IMU_Breakout.LDP
+DocumentPath=Project Outputs for IMU_Breakout\Gerber\IMU_Breakout.GTS
 DItemRevisionGUID=
 
 [GeneratedDocument13]
-DocumentPath=Project Outputs for Free Documents\NC Drill\IMU_Breakout.TXT
+DocumentPath=Project Outputs for IMU_Breakout\NC Drill\IMU_Breakout.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument14]
+DocumentPath=Project Outputs for IMU_Breakout\NC Drill\IMU_Breakout.TXT
 DItemRevisionGUID=
 
 [Configuration1]
@@ -268,36 +290,26 @@ OutputName17=SciCards Netlist
 OutputDocumentPath17=
 OutputVariantName17=
 OutputDefault17=0
-OutputType18=SIMetrixNetlist
-OutputName18=SIMetrix
+OutputType18=TangoNetlist
+OutputName18=Tango Netlist
 OutputDocumentPath18=
 OutputVariantName18=
 OutputDefault18=0
-OutputType19=SIMPLISNetlist
-OutputName19=SIMPLIS
+OutputType19=TelesisNetlist
+OutputName19=Telesis Netlist
 OutputDocumentPath19=
 OutputVariantName19=
 OutputDefault19=0
-OutputType20=TangoNetlist
-OutputName20=Tango Netlist
+OutputType20=WireListNetlist
+OutputName20=WireList Netlist
 OutputDocumentPath20=
 OutputVariantName20=
 OutputDefault20=0
-OutputType21=TelesisNetlist
-OutputName21=Telesis Netlist
+OutputType21=XSpiceNetlist
+OutputName21=Mixed Sim Netlist
 OutputDocumentPath21=
 OutputVariantName21=
 OutputDefault21=0
-OutputType22=WireListNetlist
-OutputName22=WireList Netlist
-OutputDocumentPath22=
-OutputVariantName22=
-OutputDefault22=0
-OutputType23=XSpiceNetlist
-OutputName23=Mixed Sim Netlist
-OutputDocumentPath23=
-OutputVariantName23=
-OutputDefault23=0
 
 [OutputGroup2]
 Name=Simulator Outputs
@@ -309,16 +321,6 @@ OutputName1=Mixed Sim
 OutputDocumentPath1=
 OutputVariantName1=
 OutputDefault1=0
-OutputType2=SIMetrixSimulation
-OutputName2=SIMetrix
-OutputDocumentPath2=
-OutputVariantName2=
-OutputDefault2=0
-OutputType3=SIMPLISSimulation
-OutputName3=SIMPLIS
-OutputDocumentPath3=
-OutputVariantName3=
-OutputDefault3=0
 
 [OutputGroup3]
 Name=Documentation Outputs
@@ -782,6 +784,36 @@ OutputName12=Web Review Data
 OutputDocumentPath12=
 OutputVariantName12=
 OutputDefault12=0
+OutputType13=Ansoft Neutral
+OutputName13=Ansoft Neutral (AutoPCB)
+OutputDocumentPath13=
+OutputVariantName13=
+OutputDefault13=0
+OutputType14=HyperLynx
+OutputName14=HyperLynx (AutoPCB)
+OutputDocumentPath14=
+OutputVariantName14=
+OutputDefault14=0
+OutputType15=Orcad v7 Capture Design
+OutputName15=Orcad v7 Capture Design (AutoSCH)
+OutputDocumentPath15=
+OutputVariantName15=
+OutputDefault15=0
+OutputType16=P-CAD ASCII
+OutputName16=P-CAD ASCII (AutoPCB)
+OutputDocumentPath16=
+OutputVariantName16=
+OutputDefault16=0
+OutputType17=P-CAD V16 Schematic Design
+OutputName17=P-CAD V16 Schematic Design (AutoSCH)
+OutputDocumentPath17=
+OutputVariantName17=
+OutputDefault17=0
+OutputType18=SiSoft
+OutputName18=SiSoft (AutoPCB)
+OutputDocumentPath18=
+OutputVariantName18=
+OutputDefault18=0
 
 [OutputGroup10]
 Name=PostProcess Outputs
@@ -915,6 +947,24 @@ Type117=1
 Type118=1
 Type119=1
 Type120=1
+Type121=1
+Type122=1
+Type123=1
+Type124=1
+Type125=1
+Type126=1
+Type127=1
+Type128=1
+Type129=1
+Type130=1
+Type131=1
+Type132=1
+Type133=1
+Type134=1
+Type135=1
+Type136=1
+Type137=1
+Type138=1
 
 [Difference Levels]
 Type1=1
@@ -985,6 +1035,12 @@ Type65=1
 Type66=1
 Type67=1
 Type68=1
+Type69=1
+Type70=1
+Type71=1
+Type72=1
+Type73=1
+Type74=1
 
 [Electrical Rules Check]
 Type1=1
@@ -1106,6 +1162,7 @@ Type116=2
 Type117=3
 Type118=3
 Type119=3
+MultiChannelAlternate=0
 AlternateItemFail=3
 Type122=2
 Type123=1
@@ -1113,6 +1170,32 @@ Type124=1
 Type125=1
 Type126=1
 Type127=1
+Type128=2
+Type129=2
+Type130=2
+Type131=2
+Type132=2
+Type133=2
+Type134=2
+Type135=2
+Type136=2
+Type137=2
+Type138=1
+Type139=1
+Type140=1
+Type141=1
+Type142=1
+Type143=1
+Type144=1
+Type145=1
+Type146=1
+Type147=2
+Type148=2
+Type149=2
+Type150=2
+Type151=2
+Type152=1
+Type153=1
 
 [ERC Connection Matrix]
 L1=NNNNNNNNNNNWNNNWW
