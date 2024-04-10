@@ -32,10 +32,6 @@ ReportSuppressedErrorsInMessages=0
 FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
 IsProjectConflictPreventionWarningsEnabled=0
-<<<<<<< HEAD
-ConstraintManagerFlow=0
-=======
->>>>>>> e69b96d6f7a63eb3e67b00bc3243bcffbbe9ec5d
 IsVirtualBomDocumentRemoved=0
 OutputPath=
 LogFolderPath=
@@ -53,31 +49,13 @@ PrefsVaultGUID=
 PrefsRevisionGUID=
 
 [Document1]
-DocumentPath=Power_Supply.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=VQFMUZSG
-
-<<<<<<< HEAD
-[Document2]
 DocumentPath=Buck_Converters.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=1
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -87,7 +65,41 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=SLINLPXC
 
+[Document2]
+DocumentPath=Connectors.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=3
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=PILSVFXV
+
 [Document3]
+DocumentPath=Power_Supply_no_IC.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=2
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=VKNZWHVH
+
+[Document4]
 DocumentPath=LAD_Power.BomDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -104,8 +116,44 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-=======
->>>>>>> e69b96d6f7a63eb3e67b00bc3243bcffbbe9ec5d
+[Document5]
+DocumentPath=PCB1.PcbDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=IYTMFYDL
+
+[Document6]
+DocumentPath=Sheet1.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=2
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=JNWQGYJO
+
+[GeneratedDocument1]
+DocumentPath=Project Outputs for LAD_Power\Design Rule Check - PCB1.html
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
@@ -206,7 +254,6 @@ OutputName17=SciCards Netlist
 OutputDocumentPath17=
 OutputVariantName17=
 OutputDefault17=0
-<<<<<<< HEAD
 OutputType18=TangoNetlist
 OutputName18=Tango Netlist
 OutputDocumentPath18=
@@ -227,38 +274,16 @@ OutputName21=Mixed Sim Netlist
 OutputDocumentPath21=
 OutputVariantName21=
 OutputDefault21=0
-=======
-OutputType18=SIMetrixNetlist
-OutputName18=SIMetrix
-OutputDocumentPath18=
-OutputVariantName18=
-OutputDefault18=0
-OutputType19=SIMPLISNetlist
-OutputName19=SIMPLIS
-OutputDocumentPath19=
-OutputVariantName19=
-OutputDefault19=0
-OutputType20=TangoNetlist
-OutputName20=Tango Netlist
-OutputDocumentPath20=
-OutputVariantName20=
-OutputDefault20=0
-OutputType21=TelesisNetlist
-OutputName21=Telesis Netlist
-OutputDocumentPath21=
-OutputVariantName21=
-OutputDefault21=0
-OutputType22=WireListNetlist
-OutputName22=WireList Netlist
+OutputType22=SIMetrixNetlist
+OutputName22=SIMetrix
 OutputDocumentPath22=
 OutputVariantName22=
 OutputDefault22=0
-OutputType23=XSpiceNetlist
-OutputName23=Mixed Sim Netlist
+OutputType23=SIMPLISNetlist
+OutputName23=SIMPLIS
 OutputDocumentPath23=
 OutputVariantName23=
 OutputDefault23=0
->>>>>>> e69b96d6f7a63eb3e67b00bc3243bcffbbe9ec5d
 
 [OutputGroup2]
 Name=Simulator Outputs
@@ -270,8 +295,6 @@ OutputName1=Mixed Sim
 OutputDocumentPath1=
 OutputVariantName1=
 OutputDefault1=0
-<<<<<<< HEAD
-=======
 OutputType2=SIMetrixSimulation
 OutputName2=SIMetrix
 OutputDocumentPath2=
@@ -282,7 +305,6 @@ OutputName3=SIMPLIS
 OutputDocumentPath3=
 OutputVariantName3=
 OutputDefault3=0
->>>>>>> e69b96d6f7a63eb3e67b00bc3243bcffbbe9ec5d
 
 [OutputGroup3]
 Name=Documentation Outputs
@@ -879,27 +901,6 @@ Type117=1
 Type118=1
 Type119=1
 Type120=1
-<<<<<<< HEAD
-Type121=1
-Type122=1
-Type123=1
-Type124=1
-Type125=1
-Type126=1
-Type127=1
-Type128=1
-Type129=1
-Type130=1
-Type131=1
-Type132=1
-Type133=1
-Type134=1
-Type135=1
-Type136=1
-Type137=1
-Type138=1
-=======
->>>>>>> e69b96d6f7a63eb3e67b00bc3243bcffbbe9ec5d
 
 [Difference Levels]
 Type1=1
@@ -970,15 +971,6 @@ Type65=1
 Type66=1
 Type67=1
 Type68=1
-<<<<<<< HEAD
-Type69=1
-Type70=1
-Type71=1
-Type72=1
-Type73=1
-Type74=1
-=======
->>>>>>> e69b96d6f7a63eb3e67b00bc3243bcffbbe9ec5d
 
 [Electrical Rules Check]
 Type1=1
@@ -1100,10 +1092,6 @@ Type116=2
 Type117=3
 Type118=3
 Type119=3
-<<<<<<< HEAD
-MultiChannelAlternate=0
-=======
->>>>>>> e69b96d6f7a63eb3e67b00bc3243bcffbbe9ec5d
 AlternateItemFail=3
 Type122=2
 Type123=1
@@ -1111,35 +1099,6 @@ Type124=1
 Type125=1
 Type126=1
 Type127=1
-<<<<<<< HEAD
-Type128=2
-Type129=2
-Type130=2
-Type131=2
-Type132=2
-Type133=2
-Type134=2
-Type135=2
-Type136=2
-Type137=2
-Type138=1
-Type139=1
-Type140=1
-Type141=1
-Type142=1
-Type143=1
-Type144=1
-Type145=1
-Type146=1
-Type147=2
-Type148=2
-Type149=2
-Type150=2
-Type151=2
-Type152=1
-Type153=1
-=======
->>>>>>> e69b96d6f7a63eb3e67b00bc3243bcffbbe9ec5d
 
 [ERC Connection Matrix]
 L1=NNNNNNNNNNNWNNNWW
