@@ -153,47 +153,47 @@ DocumentPath=Project Outputs for AXIS_POT\Gerber\AXIS_POT.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument5]
-DocumentPath=Project Outputs for AXIS_POT\NC Drill\AXIS_POT.LDP
+DocumentPath=Project Outputs for AXIS_POT\Gerber\AXIS_POT.GBL
 DItemRevisionGUID=
 
 [GeneratedDocument6]
-DocumentPath=Project Outputs for AXIS_POT\Gerber\AXIS_POT.REP
+DocumentPath=Project Outputs for AXIS_POT\Gerber\AXIS_POT.GBO
 DItemRevisionGUID=
 
 [GeneratedDocument7]
-DocumentPath=Project Outputs for AXIS_POT\Gerber\AXIS_POT_Copper_Signal_Bot.gbr
+DocumentPath=Project Outputs for AXIS_POT\Gerber\AXIS_POT.GBP
 DItemRevisionGUID=
 
 [GeneratedDocument8]
-DocumentPath=Project Outputs for AXIS_POT\Gerber\AXIS_POT_Copper_Signal_Top.gbr
+DocumentPath=Project Outputs for AXIS_POT\Gerber\AXIS_POT.GBS
 DItemRevisionGUID=
 
 [GeneratedDocument9]
-DocumentPath=Project Outputs for AXIS_POT\Gerber\AXIS_POT_Legend_Bot.gbr
+DocumentPath=Project Outputs for AXIS_POT\Gerber\AXIS_POT.GM
 DItemRevisionGUID=
 
 [GeneratedDocument10]
-DocumentPath=Project Outputs for AXIS_POT\Gerber\AXIS_POT_Legend_Top.gbr
+DocumentPath=Project Outputs for AXIS_POT\Gerber\AXIS_POT.GTL
 DItemRevisionGUID=
 
 [GeneratedDocument11]
-DocumentPath=Project Outputs for AXIS_POT\Gerber\AXIS_POT_Paste_Bot.gbr
+DocumentPath=Project Outputs for AXIS_POT\Gerber\AXIS_POT.GTO
 DItemRevisionGUID=
 
 [GeneratedDocument12]
-DocumentPath=Project Outputs for AXIS_POT\Gerber\AXIS_POT_Paste_Top.gbr
+DocumentPath=Project Outputs for AXIS_POT\Gerber\AXIS_POT.GTP
 DItemRevisionGUID=
 
 [GeneratedDocument13]
-DocumentPath=Project Outputs for AXIS_POT\Gerber\AXIS_POT_Profile.gbr
+DocumentPath=Project Outputs for AXIS_POT\Gerber\AXIS_POT.GTS
 DItemRevisionGUID=
 
 [GeneratedDocument14]
-DocumentPath=Project Outputs for AXIS_POT\Gerber\AXIS_POT_Soldermask_Bot.gbr
+DocumentPath=Project Outputs for AXIS_POT\NC Drill\AXIS_POT.LDP
 DItemRevisionGUID=
 
 [GeneratedDocument15]
-DocumentPath=Project Outputs for AXIS_POT\Gerber\AXIS_POT_Soldermask_Top.gbr
+DocumentPath=Project Outputs for AXIS_POT\Gerber\AXIS_POT.REP
 DItemRevisionGUID=
 
 [GeneratedDocument16]

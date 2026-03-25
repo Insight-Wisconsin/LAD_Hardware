@@ -224,167 +224,63 @@ DocumentPath=Project Outputs for LAD_PCB\Design Rule Check - LAD_PCB.html
 DItemRevisionGUID=
 
 [GeneratedDocument2]
-DocumentPath=Project Outputs for Free Documents\NC Drill\LAD_PCB-RoundHoles.TXT
-DItemRevisionGUID=
-
-[GeneratedDocument3]
 DocumentPath=Project Outputs for LAD_PCB\NC Drill\LAD_PCB-RoundHoles.TXT
 DItemRevisionGUID=
 
-[GeneratedDocument4]
-DocumentPath=Project Outputs for Free Documents\NC Drill\LAD_PCB-SlotHoles.TXT
-DItemRevisionGUID=
-
-[GeneratedDocument5]
+[GeneratedDocument3]
 DocumentPath=Project Outputs for LAD_PCB\NC Drill\LAD_PCB-SlotHoles.TXT
 DItemRevisionGUID=
 
-[GeneratedDocument6]
-DocumentPath=Project Outputs for Free Documents\NC Drill\LAD_PCB.DRR
-DItemRevisionGUID=
-
-[GeneratedDocument7]
+[GeneratedDocument4]
 DocumentPath=Project Outputs for LAD_PCB\NC Drill\LAD_PCB.DRR
 DItemRevisionGUID=
 
-[GeneratedDocument8]
-DocumentPath=Project Outputs for Free Documents\Gerber\LAD_PCB.EXTREP
-DItemRevisionGUID=
-
-[GeneratedDocument9]
+[GeneratedDocument5]
 DocumentPath=Project Outputs for LAD_PCB\Gerber\LAD_PCB.EXTREP
 DItemRevisionGUID=
 
-[GeneratedDocument10]
-DocumentPath=Project Outputs for LAD_PCB\LAD_PCB.EXTREP
-DItemRevisionGUID=
-
-[GeneratedDocument11]
+[GeneratedDocument6]
 DocumentPath=Project Outputs for LAD_PCB\Gerber\LAD_PCB.GBL
 DItemRevisionGUID=
 
-[GeneratedDocument12]
+[GeneratedDocument7]
 DocumentPath=Project Outputs for LAD_PCB\Gerber\LAD_PCB.GBO
 DItemRevisionGUID=
 
-[GeneratedDocument13]
+[GeneratedDocument8]
 DocumentPath=Project Outputs for LAD_PCB\Gerber\LAD_PCB.GBP
 DItemRevisionGUID=
 
-[GeneratedDocument14]
+[GeneratedDocument9]
 DocumentPath=Project Outputs for LAD_PCB\Gerber\LAD_PCB.GBS
 DItemRevisionGUID=
 
-[GeneratedDocument15]
+[GeneratedDocument10]
 DocumentPath=Project Outputs for LAD_PCB\Gerber\LAD_PCB.GM
 DItemRevisionGUID=
 
-[GeneratedDocument16]
+[GeneratedDocument11]
 DocumentPath=Project Outputs for LAD_PCB\Gerber\LAD_PCB.GTL
 DItemRevisionGUID=
 
-[GeneratedDocument17]
+[GeneratedDocument12]
 DocumentPath=Project Outputs for LAD_PCB\Gerber\LAD_PCB.GTO
 DItemRevisionGUID=
 
-[GeneratedDocument18]
+[GeneratedDocument13]
 DocumentPath=Project Outputs for LAD_PCB\Gerber\LAD_PCB.GTP
 DItemRevisionGUID=
 
-[GeneratedDocument19]
+[GeneratedDocument14]
 DocumentPath=Project Outputs for LAD_PCB\Gerber\LAD_PCB.GTS
 DItemRevisionGUID=
 
-[GeneratedDocument20]
-DocumentPath=Project Outputs for Free Documents\NC Drill\LAD_PCB.LDP
-DItemRevisionGUID=
-
-[GeneratedDocument21]
+[GeneratedDocument15]
 DocumentPath=Project Outputs for LAD_PCB\NC Drill\LAD_PCB.LDP
 DItemRevisionGUID=
 
-[GeneratedDocument22]
-DocumentPath=Project Outputs for Free Documents\Gerber\LAD_PCB.REP
-DItemRevisionGUID=
-
-[GeneratedDocument23]
+[GeneratedDocument16]
 DocumentPath=Project Outputs for LAD_PCB\Gerber\LAD_PCB.REP
-DItemRevisionGUID=
-
-[GeneratedDocument24]
-DocumentPath=Project Outputs for LAD_PCB\LAD_PCB.REP
-DItemRevisionGUID=
-
-[GeneratedDocument25]
-DocumentPath=Project Outputs for LAD_PCB\Gerber\LAD_PCB_Copper_Signal_Bot.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument26]
-DocumentPath=Project Outputs for LAD_PCB\LAD_PCB_Copper_Signal_Bot.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument27]
-DocumentPath=Project Outputs for LAD_PCB\Gerber\LAD_PCB_Copper_Signal_Top.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument28]
-DocumentPath=Project Outputs for LAD_PCB\LAD_PCB_Copper_Signal_Top.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument29]
-DocumentPath=Project Outputs for LAD_PCB\Gerber\LAD_PCB_Legend_Bot.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument30]
-DocumentPath=Project Outputs for LAD_PCB\LAD_PCB_Legend_Bot.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument31]
-DocumentPath=Project Outputs for LAD_PCB\Gerber\LAD_PCB_Legend_Top.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument32]
-DocumentPath=Project Outputs for LAD_PCB\LAD_PCB_Legend_Top.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument33]
-DocumentPath=Project Outputs for LAD_PCB\Gerber\LAD_PCB_Paste_Bot.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument34]
-DocumentPath=Project Outputs for LAD_PCB\LAD_PCB_Paste_Bot.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument35]
-DocumentPath=Project Outputs for LAD_PCB\Gerber\LAD_PCB_Paste_Top.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument36]
-DocumentPath=Project Outputs for LAD_PCB\LAD_PCB_Paste_Top.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument37]
-DocumentPath=Project Outputs for LAD_PCB\Gerber\LAD_PCB_Profile.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument38]
-DocumentPath=Project Outputs for LAD_PCB\LAD_PCB_Profile.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument39]
-DocumentPath=Project Outputs for LAD_PCB\Gerber\LAD_PCB_Soldermask_Bot.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument40]
-DocumentPath=Project Outputs for LAD_PCB\LAD_PCB_Soldermask_Bot.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument41]
-DocumentPath=Project Outputs for LAD_PCB\Gerber\LAD_PCB_Soldermask_Top.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument42]
-DocumentPath=Project Outputs for LAD_PCB\LAD_PCB_Soldermask_Top.gbr
 DItemRevisionGUID=
 
 [Configuration1]
