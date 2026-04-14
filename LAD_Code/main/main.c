@@ -85,7 +85,7 @@ static const char *TAG = "LAD_CTRL";
 #define MOTOR_SEL_ACTIVE_LEVEL           1
 
 /* Current-sense safety threshold (ADC raw 0..4095). Tune to your hardware. */
-#define MOTOR_CS_OVERCURRENT_RAW         1240	// to ~7.7A or 1V adc read
+#define MOTOR_CS_OVERCURRENT_RAW         805 /* ~5A or .65V adc read */
 
 typedef struct {
 	/* Potentiometer thresholds (ADC raw) */
